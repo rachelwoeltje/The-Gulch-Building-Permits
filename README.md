@@ -30,5 +30,5 @@ To complete this project, I used the following tools:
   - Matplotlib
   - Folium
   - Shapely
-- GeoJSon file
+- GeoJSON file
 - CSV files
