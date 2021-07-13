@@ -2,7 +2,7 @@
 
 ## Description
 
-Utilizing Python to analyze data on child abuse and focus on how we can be more aware of protecting our children.
+Utilizing Python to analyze data from data.nashville.gov on The Gulch Business Improvement District Boundaries and building permits issued within this area.
 
 ![image](https://user-images.githubusercontent.com/77589773/125525851-9755f548-2fe4-40de-b102-3375a0a44727.png)
 
