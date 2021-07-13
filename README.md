@@ -18,5 +18,5 @@ To complete this project, I used the following tools:
   - Matplotlib
   - Folium
   - Shapely
-- GeoJSON file
-- CSV files
+- GeoJSON files
+- CSV file
